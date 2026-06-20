@@ -1,5 +1,7 @@
+<img src="3.png" alt="MasterHead" width="100%">
 <h1 align="center">Hi 👋, I'm Rupesh Gahlawat</h1>
 <h3 align="center">A B.Tech CSE Student & Aspiring Data Scientist from India</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Urc28sbnORGOW5oyohQ06g.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupeshgahlawat&label=Profile%20views&color=0e75b6&style=flat" alt="rupeshgahlawat" /> </p>
 
